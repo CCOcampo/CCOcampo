@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm Cristhian Ocampo 👋</h1>
+</div>
 
-<!--
-**CCOcampo/CCOcampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</a>
+<a href="https://www.datascienceportfol.io/CristhianCO" target="_blank">
+<img src="https://datasciencecc.s3.us-east-2.amazonaws.com/Data.png">
+</a>
 
-Here are some ideas to get you started:
+## About me
+I'm a geological engineer by profession and a data scientist with a passion for Data visualization, ML, DL and GEN AI. 
+I am currently developing academic data science and data visualization projects to study new models and stay up to date with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Analytics Tools
+- Data Collection and Storage: Bigquery.
+- Data Processing and Analytics: Jupyter Notebook, Pandas, Numpy.
+- Development: Python, Git.
+- Data Visualization: Seaborn, Matplotlib, Pyplot.
+- Machine Learning Modeling: Classification, Regression, Clusterization, Time Series and Neural Network.
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/CCOcampo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CCOcampo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
