@@ -7,18 +7,25 @@
 <img src="https://datasciencecc.s3.us-east-2.amazonaws.com/Data.png">
 </a>
 
-## About me
+## About me  💻
 I'm a geological engineer by profession and a data scientist with a passion for Data visualization, ML, DL and GEN AI. 
 I am currently developing academic data science and data visualization projects to study new models and stay up to date with new technologies.
 
-## Analytics Tools
-- Data Collection and Storage: Bigquery.
+## Skills ✅
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,anaconda,aws,mysql,py,sklearn,tensorflow,wordpress, " />
+  </a>
+</p>
+
+## Analytics Tools 📊
+- Data Collection and Storage: Bigquery, MySQL.
 - Data Processing and Analytics: Jupyter Notebook, Pandas, Numpy.
 - Development: Python, Git.
 - Data Visualization: Seaborn, Matplotlib, Pyplot.
 - Machine Learning Modeling: Classification, Regression, Clusterization, Time Series and Neural Network.
 
-### ⚙️ &nbsp;GitHub Analytics
+## GitHub Analytics ⚙️
 
 <p align="center">
 <a href="https://github.com/CCOcampo">
