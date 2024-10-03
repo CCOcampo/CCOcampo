@@ -14,7 +14,7 @@ I am currently developing academic data science and data visualization projects 
 ## Skills ✅
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,aws,py,sklearn,tensorflow,ai,docker,git,github,anaconda,mysql,bash,linux,vscode,wordpress," />
+    <img src="https://skillicons.dev/icons?i=terraform,aws,py,sklearn,tensorflow,ai,docker,ansible,git,github,anaconda,mysql,bash,linux,vscode,wordpress," />
   </a>
 </p>
 
