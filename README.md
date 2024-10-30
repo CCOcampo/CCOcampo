@@ -7,10 +7,6 @@
 <img src="https://datasciencecc.s3.us-east-2.amazonaws.com/Data.png">
 </a>
 
-<p align="center">
-   <strong>My interests 🔧</strong>
-</p>
-
 ## My interests 🔧
 
 <p align="center">
