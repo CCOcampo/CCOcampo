@@ -1,15 +1,15 @@
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=01313f&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=!Hi%2C+I'm+Cristhian+Ocampo+%F0%9F%91%8B;Data+Scientist" width="auto" height="45"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=596A50&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hi%2C+I'm+Cristhian+Ocampo+%F0%9F%91%8B;Data+Scientist" width="auto" height="45"/>
 </p>
 
 <p align="center">
-  <img alt="Coding GIF" width="400" height="250" src="assets/Data.gif"/>
+  <img alt="Coding GIF" width="400" height="250" src="assets/Data_main.gif"/>
 </p>
 
 ## My interests 🔧
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=01313f&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Data+Science;Machine+Learning;DevOps" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=596A50&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Data+Science;Machine+Learning;DevOps" width="auto" height="35"/>
 </p>
 
 ## About me 💻
