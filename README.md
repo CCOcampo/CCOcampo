@@ -47,14 +47,14 @@ To stay current with emerging models and technologies, I am actively working on 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:ccocampob@unal.edu.co" target="_blank">
-    <img align="center" src="Assets/Gmail.png" alt="gmail" height="60" width="60" />
+    <img align="center" src="Assets/gmail.png" alt="gmail" height="60" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/cristhian-camilo-ocampo-bolivar/" target="_blank">
-    <img align="center" src="Assets/Linkedin.png" alt="linkedin" height="60" width="60" />
+    <img align="center" src="Assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/CristhianCOcam1" target="_blank">
-    <img align="center" src="Assets/Twitter.png" alt="linkedin" height="60" width="60" />
+    <img align="center" src="Assets/twitter.png" alt="linkedin" height="60" width="60" />
   </a>  
 </p>
