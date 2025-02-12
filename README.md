@@ -14,15 +14,15 @@
 
 ## About me 💻
 
-I am a geological engineer by profession and a data scientist with a strong passion for data visualization, machine learning (ML), deep learning (DL), and GEN AI.
+I am a data scientist with a strong passion for data visualization, machine learning (ML), deep learning (DL), and generative AI.
 Additionally, I have a keen interest in DevOps, specializing in AWS and Terraform for Infrastructure as Code (IaC).
-To stay current with emerging models and technologies, I am actively working on academic projects in data science and Devops.
+To stay up to date with emerging models and technologies, I actively work on academic projects in data science and Devops.
 
 ## Skills ✅
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,aws,py,sklearn,tensorflow,ai,docker,ansible"/>
+    <img src="https://skillicons.dev/icons?i=terraform,aws,py,sklearn,tensorflow,ai,docker,kubernetes,ansible"/>
     <br>
     <img src="https://skillicons.dev/icons?i=git,github,anaconda,mysql,bash,linux,vscode,wordpress"/>
   </a>
