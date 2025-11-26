@@ -9,22 +9,22 @@
 ## My interests 🔧
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=596A50&size=35&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=Artificial+Intelligence;Data+Science;Machine+Learning;DevOps" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=596A50&size=35&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=Data+Engineer;Artificial+Intelligence;Data+Science;Machine+Learning;DevOps" width="auto" height="35"/>
 </p>
 
 ## About me 💻
 
-I am a data scientist with a strong passion for data visualization, machine learning (ML), deep learning (DL), and generative AI.
-Additionally, I have a keen interest in DevOps, specializing in AWS and Terraform for Infrastructure as Code (IaC).
+I am a data engineer with a strong passion for generative AI, data visualization, machine learning (ML), deep learning (DL).
+Additionally, I have a keen interest in DevOps, specializing in AWS and Azure with Terraform for Infrastructure as Code (IaC).
 To stay up to date with emerging models and technologies, I actively work on academic projects in data science and Devops.
 
 ## Skills ✅
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,aws,py,sklearn,tensorflow,ai,docker,kubernetes,ansible"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,py,terraform,sklearn,tensorflow,ai,docker"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,anaconda,mysql,bash,linux,vscode,wordpress"/>
+    <img src="https://skillicons.dev/icons?i=git,github,anaconda,mysql,bash,linux,vscode"/>
   </a>
 </p>
 
@@ -32,8 +32,8 @@ To stay up to date with emerging models and technologies, I actively work on aca
 
 - Data Collection and Storage: Bigquery, MySQL.
 - Data Processing and Analytics: Jupyter Notebook, Pandas, Numpy.
-- Development: Python, Git, AWS, Terraform.
-- Data Visualization: Seaborn, Matplotlib, Pyplot, Tableau.
+- Development: Python, Git, AWS, Azure, Terraform.
+- Data Visualization: Power Bi, Looker Studio, Seaborn, Matplotlib, Pyplot.
 - Machine Learning Modeling: Classification, Regression, Clusterization, Time Series and Neural Network.
 
 ## GitHub Analytics ⚙️
